@@ -1,0 +1,243 @@
+.p0 {
+	padding: 0 !important;
+}
+/* Remove Chrome Input Field's Unwanted Yellow Background Color */
+input:-webkit-autofill, 
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus {
+    -webkit-box-shadow: 0 0 0px 1000px white inset !important;
+}
+::-webkit-input-placeholder { / Chrome/Opera/Safari /
+  color: #000 !important;
+}
+::-moz-placeholder { / Firefox 19+ /
+  color: #000 !important;
+}
+::-ms-input-placeholder { / IE 10+ /
+  color: #000 !important;
+}
+::-moz-placeholder { / Firefox 18- /
+  color: #000 !important;
+}
+
+
+/*________________Html 5 lightbox css_____ */
+#html5-watermark {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  display: none !important;
+  z-index: 99999999999999;
+}
+
+
+
+/* jQuery ui dropdown  */
+.ui-selectmenu-button span.ui-selectmenu-text {
+  display: block;
+  line-height: 40px;
+  overflow: hidden;
+  padding: 2px 5px;
+  text-align: left;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+.ui-selectmenu-button.ui-state-default {
+  background: transparent;
+  border: 0px solid #eaeaea;
+  border-radius: 0;
+  color: #ffffff;
+  font-size: 14px;
+  height: 40px;
+  outline: medium none;
+  width: 100% !important;
+  margin-bottom: 0px;
+}
+.ui-selectmenu-button.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br {
+  border-bottom-right-radius: 0
+}
+.ui-selectmenu-button.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl {
+  border-bottom-left-radius: 0
+}
+/* jQuery ui dropdown Icon style */
+.ui-selectmenu-button.ui-state-default .ui-icon {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  margin: 0;
+  right: 15px;
+  top: 5px;
+}
+.ui-selectmenu-button span.ui-icon {
+    margin-top: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.ui-selectmenu-button span.ui-icon {
+  display: block;
+  float: right;
+  height: 40px;
+  position: relative;
+  text-indent: 0;
+  top: 0;
+  width: 48px;
+}
+.ui-selectmenu-button.ui-selectmenu-button span.ui-icon::before {
+  color: #999999;
+  content: "\f0d7";
+  font-family: FontAwesome;
+  font-size: 18px;
+  overflow: visible;
+  position: absolute;
+  top: 0px;
+}
+/* jQuery ui dropdown Sub item style */
+.ui-widget-content {
+  background: #ffffff none repeat scroll 0 0;
+  border: 1px solid #eaeaea !important;
+  color: #999999;
+  font-family: "Poppins",sans-serif;
+  font-size: 14px;
+}
+.ui-selectmenu-menu .ui-menu {
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding-bottom: 0;
+}
+.ui-menu .ui-menu-item {
+  cursor: pointer;
+  margin: 0;
+  min-height: 0;
+  padding: 5px 15px;
+  position: relative;
+}
+/* jQuery ui dropdown Hover style */
+.ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus {
+  background: #43c3ea none repeat scroll 0 0;
+  border: none;
+  color: #fff;
+  font-size: 14px;
+}
+
+/* Contact form area style */
+#contact-form label.error {
+  display: none !important;
+}
+
+/* Rev slider wrapper style */
+.rev_slider_wrapper .slide-content-box .button a{
+  padding: 12px 40px 11px;
+  font-weight: 900;
+  transition: all 700ms ease !important;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Date picker style */
+.ui-datepicker-calendar .ui-state-default{
+  background: #fff none repeat scroll 0 0;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  color: #252525;
+  display: block;
+  font-size: 12px;
+  font-weight: 400;
+  height: 35px;
+  line-height: 25px;
+  margin-bottom: 5px;
+  padding: 4px 2px;
+  text-align: center;
+  width: 35px !important;
+  transition: all 500ms ease;
+}
+
+/* Appoinment area style */
+.appoinment-area .appoinment .appoinment-form .input-box .ui-selectmenu-button.ui-state-default {
+  background: #fff;
+  border: 1px solid #ececec;
+  border-radius: 0 !important;
+  color: #c8c8c8;
+  font-size: 14px;
+  height: 40px;
+  margin-bottom: 0;
+  outline: medium none;
+  width: 100% !important;
+}
+
+/* Shop area style */
+.showing-result-shorting .shorting {
+  float: right;
+  width: 220px !important;
+}
+.showing-result-shorting .shorting .ui-selectmenu-button.ui-state-default {
+  background: transparent none repeat scroll 0 0;
+  border: 1px solid #f7f7f7;
+  border-radius: 0;
+  color: #3d3d3d;
+  display: block;
+  font-size: 14px;
+  height: 45px;
+  margin-bottom: 0;
+  outline: medium none;
+  padding: 12px 15px;
+  width: 100% !important;
+}
+/* cart area style */
+.cart-area .cart-table tbody tr .qty .form-control {
+  background-color: #f7f7f7;
+  background-image: none;
+  border: 1px solid #f7f7f7;
+  border-radius: 0 !important;
+  box-shadow: none;
+  color: #3d3d3d;
+  display: block;
+  font-size: 18px;
+  font-weight: 500;
+  height: 45px;
+  padding: 6px 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* single shop style */
+.single-shop-content .content-box .addto-cart-box .form-control {
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #eaeaea;
+  border-radius: 0 !important;
+  box-shadow: none;
+  color: #272727;
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  height: 50px;
+  padding: 6px 0 8px;
+  text-align: center;
+}
+
+/* Checkout area style */
+.checkout-area .table .cart-table tbody tr .qty .form-control {
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 0 !important;
+  box-shadow: none;
+  color: #252525;
+  display: block;
+  font-size: 18px;
+  font-weight: 400;
+  height: 34px;
+  padding: 6px 0;
+  text-align: center;
+}
+.cart-bottom .calculate-shipping .ui-state-default {
+  background: #fff none repeat scroll 0 0;
+  border: 2px solid #f7f7f7;
+  border-radius: 0;
+  color: #999999;
+  font-size: 14px;
+  font-weight: normal;
+  height: 45px;
+  margin-bottom: 17px;
+  outline: medium none;
+  width: 100% !important;
+}

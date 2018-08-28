@@ -1,0 +1,1149 @@
+
+/* Large Layout: 1200px. */
+@media only screen and (min-width: 1200px){
+.container {padding: 0;}
+.container-fluid{padding: 0;}    
+ 
+    
+}
+
+
+/* Medium screen  */ 
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    
+/*** 
+=============================================
+    Top bar Area style
+=============================================
+***/ 
+.top-bar-area .rate {
+  float: right;
+  margin-right: 65px;
+}    
+       
+/*** 
+=============================================
+    Header Area style
+=============================================
+***/     
+.header-contact-info ul {
+  margin: 5px 0 5px 0px;
+}
+.header-contact-info ul li {
+  margin-right: 10px;
+}  
+    
+/*** 
+=============================================
+    Main menu Area style
+=============================================
+***/      
+.main-menu .navigation li a {
+  padding: 20px 19px;
+} 
+.main-menu .navigation > li > ul {
+  left: 20px;
+}    
+.customer-care {
+  margin: 14px 0 14px 0px;
+  padding-left: 35px;
+  position: relative;
+}    
+
+/*** 
+=============================================
+    Footer Area style
+=============================================
+***/  
+.single-footer-widget.subscribe-form-widget {
+  margin-left: 0;
+  padding-right: 0;
+}    
+.single-footer-widget .footer-social-links ul li {
+  margin-right: 12px;
+}    
+.single-footer-widget .footer-contact-info li {
+  padding-left: 25px;
+}    
+.single-footer-widget.contact-info-widget {
+  margin-left: 0;
+}    
+  
+/*** 
+=============================================
+    Categories Area style
+=============================================
+***/      
+.categories-area .single-item .text-holder {
+  padding: 27px 12px 13px 25px;
+} 
+    
+/*** 
+=============================================
+    About us Area style
+=============================================
+***/     
+.about-us-area .about-content ul li {
+  width: 145px;
+}   
+ 
+/*** 
+=============================================
+    Appoinment Area style
+=============================================
+***/     
+.appoinment-area .products .single-product ul li {
+  margin: 0 3px 30px;
+  width: 103px;
+} 
+    
+/*** 
+=============================================
+    Core Value Area style
+=============================================
+***/      
+.core-value-area .img-holder img {
+  margin-left: 0;
+  width: auto;
+}    
+   
+/*** 
+=============================================
+    Service Single Area style
+=============================================
+***/  
+#service-single-area .service-single-sidebar .repair-time {
+  padding-left: 20px;
+}    
+    
+/*** 
+=============================================
+    Login Register Area style
+=============================================
+***/     
+.login-register-area .form a.forgot-password {
+  margin: 70px 0 0;
+}    
+.login-register-area .register {
+  padding-top: 50px;
+}       
+.login-register-area .form h6 {
+  margin: 28px 0 0;
+} 
+    
+/*** 
+=============================================
+    Main Shop Area style
+=============================================
+***/ 
+.single-product-item .title-holder .top .product-title {
+  float: none !important;
+}    
+.single-product-item .title-holder .top .review-box {
+  float: none !important;
+  display: block;
+}    
+    
+/*** 
+=============================================
+    Single Shop Area style
+=============================================
+***/     
+.single-shop-content .img-holder {
+  margin-right: 20px;
+}    
+.single-shop-content .content-box {
+  margin-left: -20px;
+}    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+}
+
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+/*** 
+=============================================
+    Top bar Area style
+=============================================
+***/
+.top-bar-area .welcome p {
+  text-align: center;
+  margin: 5px 0;
+}    
+.top-bar-area .topinfo {
+  position: static;
+}
+.top-bar-area .topinfo .select-items {
+  width: 250px;
+  margin: 0 auto;
+  float: none;
+}    
+.top-bar-area .rate {
+  float: none;
+  margin-right: 0;
+  text-align: center;
+} 
+.top-social-links ul {
+  float: none;
+  text-align: center;
+}    
+       
+/*** 
+=============================================
+    Header Area style
+=============================================
+***/  
+.header-area .logo {
+  text-align: center;
+  margin-bottom: 20px;
+}    
+
+.header-contact-info ul {
+  margin: 5px 0;
+  overflow: hidden;
+}
+.header-contact-info ul li {
+  margin-right: 20px;
+}    
+
+   
+ /*** 
+=============================================
+    Mainmenu Area style
+=============================================
+***/   
+.main-menu .navigation li a {
+  padding: 15px 12px;
+}
+.main-menu .navigation > li > ul {
+  left: 15px;
+  width: 230px;
+}    
+.customer-care {
+  margin: 12px 0;
+  padding-left: 30px;
+} 
+.customer-care .icon-holder {
+  top: 5px;
+}    
+.customer-care .icon-holder span::before {
+  font-size: 25px;
+}    
+.customer-care .title-holder h5 {
+  font-size: 13px;
+  margin: 0 0 5px;
+}    
+.customer-care .title-holder h4 {
+  font-size: 14px;
+}    
+.top-search-box button {
+  height: 60px;
+  line-height: 58px;
+  width: 60px;
+}    
+    
+/*** 
+=============================================
+    Footer Area style
+=============================================
+***/      
+.footer-area .footer-widget {
+  margin-top: 35px;
+}
+.single-footer-widget.subscribe-form-widget {
+  margin: 50px 0 50px;
+  padding: 0;
+  width: 255px;
+}    
+.single-footer-widget.contact-info-widget {
+  margin-left: 0;
+}   
+    
+/*** 
+=============================================
+    Blog Area style
+=============================================
+***/      
+#blog-area .blog-post {
+  border-right: medium none;
+  margin-right: 0;
+  padding-right: 0;
+}
+.sidebar-wrapper {
+  margin-top: 70px;
+  padding-left: 0;
+} 
+    
+/*** 
+=============================================
+    About us Area style
+=============================================
+***/      
+.about-us-area .choose-us-content {
+  padding-top: 70px;
+}  
+    
+/*** 
+=============================================
+    Appoinment Area style
+=============================================
+***/         
+.appoinment-area .appoinment {
+    margin-top: 60px;
+}    
+ 
+/*** 
+=============================================
+    Contact Area style
+=============================================
+***/  
+.contact-area {
+  padding-bottom: 80px;
+  padding-top: 80px;
+}    
+.contact-area .contact-info {
+  padding-bottom: 70px;
+}    
+    
+/*** 
+=============================================
+    Video Gallery Area style
+=============================================
+***/  
+.video-gallery-area .video-gallery {
+  margin: 50px 0 0;
+}    
+    
+/*** 
+=============================================
+    Core Value Area style
+=============================================
+***/      
+.core-value-area .img-holder img {
+  margin-left: 0;
+  width: auto;
+}    
+   
+/*** 
+=============================================
+    Working Process Area style
+=============================================
+***/
+.working-process-area {
+  padding-bottom: 23px;
+}    
+.working-process-area .single-iten {
+  margin-bottom: 40px;
+} 
+    
+/*** 
+=============================================
+    Faq Single Area style
+=============================================
+***/      
+.faq-single-area .accordion-box {
+  padding-bottom: 60px;
+  padding-top: 80px;
+}    
+
+/*** 
+=============================================
+    Pricing Plan One Area style
+=============================================
+***/      
+.pricing-plan-one-area {
+  padding-bottom: 30px;
+  padding-top: 80px;
+}    
+.pricing-plan-one-area .single-pricing-box {
+  padding-bottom: 50px;
+}    
+
+/*** 
+=============================================
+    Pricing Plan Two Area style
+=============================================
+***/  
+.pricing-plan-two-area {
+  padding-bottom: 30px;
+}    
+.pricing-plan-two-area .pricing-plan-two .pricing-plan .single-pricing-plan {
+  padding-bottom: 50px;
+} 
+    
+/*** 
+=============================================
+    Service Single Area style
+=============================================
+***/
+#service-single-area .service-single-content .top-content .img-holder {
+  margin-right: 0;
+}    
+#service-single-area .service-single-content .top-content .img-holder img {
+  width: 100%;
+}
+#service-single-area .service-single-content .top-content .text-holder {
+  margin-left: 0;
+  margin-top: 30px;
+}    
+#service-single-area .service-single-content .middle-content .text-holder {
+  margin-right: 0;
+}    
+#service-single-area .service-single-content .middle-content .img-holder {
+  margin-left: 0;
+  margin-top: 30px;
+}    
+#service-single-area .service-single-content .middle-content .img-holder img {
+  width: 100%;
+} 
+#service-single-area .service-single-content .bottom-content {
+  padding-top: 20px;
+}    
+#service-single-area .service-single-content .bottom-content .img-holder {
+  margin-right: 0;
+}    
+#service-single-area .service-single-content .bottom-content .img-holder img {
+  width: 100%;
+}        
+#service-single-area .service-single-content .bottom-content .text-holder {
+  margin-left: 0;
+  margin-top: 15px;
+}   
+#service-single-area .service-single-sidebar {
+  margin-top: 60px;
+}
+    
+/*** 
+=============================================
+    Checkout Area style
+=============================================
+***/    
+.checkout-area .form.shipping-info {
+  padding-top: 60px;
+}    
+.checkout-area .cart-total {
+  padding-top: 60px;
+}
+    
+/*** 
+=============================================
+    Login Register Area style
+=============================================
+***/     
+.login-register-area .form a.forgot-password {
+  margin: 70px 0 0;
+} 
+.login-register-area .register {
+  padding-top: 50px;
+}    
+.login-register-area .form h6 {
+  color: #797979;
+  float: left;
+  font-size: 14px;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 27px;
+}
+
+/*** 
+=============================================
+    Cart Area style
+=============================================
+***/      
+.cart-area .cart-bottom .calculate-shipping {
+  padding-bottom: 60px;
+} 
+    
+/*** 
+=============================================
+    Main Shop Area style
+=============================================
+***/ 
+.single-product-item .title-holder .top .product-title {
+  float: none !important;
+}    
+.single-product-item .title-holder .top .review-box {
+  float: none !important;
+  display: block;
+}    
+        
+/*** 
+=============================================
+    Single Shop Area style
+=============================================
+***/     
+.single-shop-content .img-holder {
+  margin-right: 0px;
+}    
+.single-shop-content .content-box {
+  margin-left: 0;
+  margin-top: 35px;
+}   
+.related-product .single-product-item {
+  margin-bottom: 40px;
+}    
+  
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+    
+}
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+    
+/*** 
+=============================================
+    Top bar Area style
+=============================================
+***/
+.top-bar-area .welcome p {
+  text-align: center;
+  margin: 5px 0;
+}    
+.top-bar-area .topinfo {
+  position: static;
+}
+.top-bar-area .topinfo .select-items {
+  width: 250px;
+  margin: 0 auto;
+  float: none;
+}    
+.top-bar-area .rate {
+  float: none;
+  margin-right: 0;
+  text-align: center;
+} 
+.top-social-links ul {
+  float: none;
+  text-align: center;
+}           
+    
+/*** 
+=============================================
+    Header Area style
+=============================================
+***/  
+.header-area .logo {
+  text-align: center;
+  margin-bottom: 20px;
+}    
+.header-contact-info ul {
+  margin: 5px 0;
+  overflow: hidden;
+  width: 260px;
+  margin: 0 auto;
+}
+.header-contact-info ul li {
+  display: block;
+  float: none;
+  margin-right: 0;
+  margin-bottom: 10px;
+}    
+    
+    
+    
+/*** 
+=============================================
+    Main mneu Area style
+=============================================
+***/ 
+ 
+.customer-care {
+  margin: 0;
+  padding-left: 35px;
+  margin-top: -15px;
+}  
+.top-search-box button {
+  height: 42px;
+  line-height: 40px;
+  width: 46px;
+  border-radius: 5px;
+  background: transparent;
+}
+.top-search-box .search-box li form button {
+  border-radius: 0;
+}    
+    
+.main-menu {
+  display: inline-block;
+  float: right !important;
+  padding-bottom: 0;
+  padding-top: 0;
+  z-index: 5;
+  width: 100%;
+}
+.main-menu .navigation li {
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+}   
+.main-menu .collapse {
+  border: 1px solid #fff !important;
+  border-radius: 0px !important;
+  float: none;
+  margin: 0;
+  max-height: 300px;
+  overflow: auto;
+  padding: 0;
+  width: 100%;
+}    
+.main-menu .collapse.in, 
+.main-menu .collapsing {
+  border: 1px solid #fff;
+  border-radius: 0px;
+  margin: 0 0 30px;
+  padding: 0;
+  border-top: none;
+}    
+.main-menu .navbar-header{
+  position:relative;
+  float:none;
+  display:block;
+  text-align:right;
+  width:100%;
+  padding:15px 0px;
+  right:0px;
+  z-index:12;
+}        
+.main-menu .navbar-header .navbar-toggle {
+  border: 2px solid #43c3ea;
+  display: inline-block;
+  float: none;
+  margin: 0;
+  z-index: 7;
+  width: 46px;
+  height: 42px;
+}    
+.main-menu .navbar-header .navbar-toggle .icon-bar {
+  background: #fff none repeat scroll 0 0;
+  font-weight: 700;
+}
+    
+.main-menu .navbar-collapse > .navigation {
+  background: #1f51b4;
+  float: none !important;
+  margin: 0 !important;
+  width: 100% !important;
+}        
+.main-menu .navbar-collapse > .navigation > li{
+  margin:0px !important;
+  float:none !important;
+  width:100%;
+  padding: 0;
+}  
+.main-menu .navigation li.dropdown > a:after{
+  display:none !important;
+} 
+.main-menu .navbar-collapse > .navigation > li > a{
+  padding:10px 10px !important;
+}    
+    
+  
+.main-menu .navbar-collapse > .navigation > li > ul,
+.main-menu .navbar-collapse > .navigation > li > ul > li > ul{
+  position:relative;
+  border:none;
+  float:none;
+  visibility:visible;
+  opacity:1;
+  display:none;
+  margin:0px;
+  left:auto !important;
+  right:auto !important;
+  top:auto !important;
+  width:100%;
+  background: none;
+  border-radius:0px;
+  -webkit-border-radius:0px;
+  -ms-border-radius:0px;
+  -o-border-radius:0px;
+  -moz-border-radius:0px;
+  transition:none !important;
+  -webkit-transition:none !important;
+  -ms-transition:none !important;
+  -o-transition:none !important;
+  -moz-transition:none !important;
+}    
+.main-menu .navbar-collapse > .navigation > li > ul,
+.main-menu .navbar-collapse > .navigation > li > ul > li > ul{
+  border-top: 0px solid rgba(255,255,255,1) !important;	
+}
+    
+.main-menu .navbar-collapse > .navigation > li,
+.main-menu .navbar-collapse > .navigation > li > ul > li,
+.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li{
+  border-top: 1px solid #213661 !important;
+  opacity:1 !important;
+  top:0px !important;
+  left:0px !important;
+  visibility:visible !important;
+}
+.main-menu .navbar-collapse > .navigation > li > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a{
+  padding:10px 10px !important;
+  line-height:22px;
+  color:#ffffff;
+  background:#152545;
+  text-align:left;
+} 
+.main-menu .navbar-collapse > .navigation > li > ul > li > a{
+  padding:10px 20px !important;
+  line-height:22px;
+  color:#ffffff;
+  background:#152545;
+  text-align:left;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+}    
+    
+    
+.main-menu .navbar-collapse > .navigation > li > a:hover,
+.main-menu .navbar-collapse > .navigation > li > a:active,
+.main-menu .navbar-collapse > .navigation > li > a:focus{
+  background:#43c3ea;
+} 
+.main-menu .navbar-collapse > .navigation > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li.current > a{
+  background:#43c3ea;
+  color:#ffffff !important;
+}        
+.main-menu .navbar-collapse > .navigation li.dropdown .dropdown-btn{
+  display:block;
+}
+ 
+/*** 
+=============================================
+    Breadcrumb Area style
+=============================================
+***/     
+.breadcrumb-area {
+  height: auto;
+  padding-bottom: 55px;
+  padding-top: 55px;
+} 
+.breadcrumb-botton-area .left {
+  float: none !important;
+  text-align: center;
+}    
+.breadcrumb-botton-area .right {
+  float: none !important;
+  text-align: center;
+}    
+    
+    
+    
+    
+/*** 
+=============================================
+    Footer Area style
+=============================================
+***/      
+.footer-area .footer-widget {
+  margin-top: 35px;
+}
+.single-footer-widget.subscribe-form-widget {
+  margin: 50px 0 50px;
+  padding: 0;
+  width: 255px;
+}    
+.single-footer-widget.contact-info-widget {
+  margin-left: 0;
+}    
+.footer-bottom .copyright-text {
+  float: none !important;
+  margin: 0 0 12px;
+  text-align: center;
+}    
+.footer-bottom .payment-method {
+  float: none !important;
+  overflow: hidden;
+}    
+.footer-bottom .payment-method ul {
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+}    
+.footer-bottom .payment-method ul li {
+  margin: 0 5px;
+  text-align: center;
+  float: none;
+}    
+    
+/*** 
+=============================================
+    Blog Area style
+=============================================
+***/      
+#blog-area .blog-post {
+  border-right: medium none;
+  margin-right: 0;
+  padding-right: 0;
+}
+.sidebar-wrapper {
+  margin-top: 70px;
+  padding-left: 0;
+} 
+    
+/*** 
+=============================================
+    About us Area style
+=============================================
+***/ 
+.about-us-area .about-content ul li {
+  margin: 0 5px 10px;
+}    
+.about-us-area .choose-us-content {
+  padding-top: 70px;
+}    
+  
+/*** 
+=============================================
+    Appoinment Area style
+=============================================
+***/         
+.appoinment-area .appoinment {
+    margin-top: 60px;
+}    
+    
+/*** 
+=============================================
+    Blog single Area style
+=============================================
+***/  
+.single-blog-item .text-holder .date-box {
+  margin-top: 30px;
+  position: static;
+} 
+.single-blog-item .text-holder {
+  padding-left: 0px;
+  position: relative;
+}    
+.blog-single-area .single-blog-item .text-holder {
+  padding-left: 0;
+  position: relative;
+}
+.blog-single-area .middle-content-box .img-holder, .blog-single-area .middle-content-box .text-holder {
+  display: block;
+}    
+.blog-single-area .middle-content-box .text-holder {
+  padding-left: 0;
+  padding-top: 40px;
+} 
+.blog-single-area .middle-content-box .text-holder::before {
+  left: 0;
+  top: 10px;
+}    
+.blog-single-area .middle-content-box .img-holder {
+  width: auto;
+}    
+    
+.blog-single-area .tag-social-share-box .social-share {
+  float: left !important;
+  margin: 15px 0 0;
+} 
+.blog-single-area .tag-social-share-box .tag {
+  float: none !important;
+}    
+.blog-single-area .author-box .text-holder {
+  padding-left: 15px !important;
+}
+    
+/*** 
+=============================================
+    Contact Area style
+=============================================
+***/  
+.contact-area {
+  padding-bottom: 80px;
+  padding-top: 80px;
+}    
+.contact-area .contact-info {
+  padding-bottom: 70px;
+}    
+    
+/*** 
+=============================================
+    Video Gallery Area style
+=============================================
+***/  
+.video-gallery-area .video-gallery {
+  margin: 50px 0 0;
+}    
+   
+/*** 
+=============================================
+    Core Value Area style
+=============================================
+***/      
+.core-value-area .img-holder img {
+  margin-left: 0;
+}    
+   
+/*** 
+=============================================
+    Working Process Area style
+=============================================
+***/
+.working-process-area {
+  padding-bottom: 23px;
+}    
+.working-process-area .single-iten {
+  margin-bottom: 40px;
+} 
+   
+/*** 
+=============================================
+    Faq Single Area style
+=============================================
+***/      
+.faq-single-area .accordion-box {
+  padding-bottom: 60px;
+  padding-top: 80px;
+  padding-left: 0;
+}    
+
+/*** 
+=============================================
+    Faq Content Area style
+=============================================
+***/      
+.faq-content-area .faq-content {
+  padding: 50px 15px 20px;
+}    
+.faq-content-area .faq-content .single-item {
+  padding: 46px 20px 22px;
+}   
+    
+/*** 
+=============================================
+    Pricing Plan One Area style
+=============================================
+***/      
+.pricing-plan-one-area {
+  padding-bottom: 30px;
+  padding-top: 80px;
+}    
+.pricing-plan-one-area .single-pricing-box {
+  padding-bottom: 50px;
+}    
+    
+/*** 
+=============================================
+    Pricing Plan Two Area style
+=============================================
+***/  
+.pricing-plan-two-area {
+  padding-bottom: 30px;
+}    
+.pricing-plan-two-area .pricing-plan-two .pricing-plan .single-pricing-plan {
+  padding-bottom: 50px;
+} 
+   
+/*** 
+=============================================
+    Service Single Area style
+=============================================
+***/
+#service-single-area .service-single-content .top-content .img-holder {
+  margin-right: 0;
+}    
+#service-single-area .service-single-content .top-content .img-holder img {
+  width: 100%;
+}
+#service-single-area .service-single-content .top-content .text-holder {
+  margin-left: 0;
+  margin-top: 30px;
+}    
+#service-single-area .service-single-content .middle-content .text-holder {
+  margin-right: 0;
+}    
+#service-single-area .service-single-content .middle-content .img-holder {
+  margin-left: 0;
+  margin-top: 30px;
+}    
+#service-single-area .service-single-content .middle-content .img-holder img {
+  width: 100%;
+} 
+#service-single-area .service-single-content .bottom-content {
+  padding-top: 20px;
+}    
+#service-single-area .service-single-content .bottom-content .img-holder {
+  margin-right: 0;
+}    
+#service-single-area .service-single-content .bottom-content .img-holder img {
+  width: 100%;
+}        
+#service-single-area .service-single-content .bottom-content .text-holder {
+  margin-left: 0;
+  margin-top: 15px;
+}   
+#service-single-area .service-single-sidebar {
+  margin-top: 60px;
+}
+
+/*** 
+=============================================
+    Not Found Area  style
+=============================================
+***/       
+.not-found-content .search-form {
+  width: 300px;
+}    
+.not-found-content .search-form input[type="text"] {
+  width: 300px;
+}    
+    
+/*** 
+=============================================
+    Checkout Area style
+=============================================
+***/    
+.checkout-area .form.shipping-info {
+  padding-top: 60px;
+}    
+.checkout-area .cart-total {
+  padding-top: 60px;
+}
+    
+/*** 
+=============================================
+    Login Register Area style
+=============================================
+***/  
+.login-register-area .form a.forgot-password {
+  float: left;
+  margin: 35px 0 0;
+}  
+.login-register-area .form.register {
+  padding-top: 60px;
+}    
+.login-register-area .form .social-icon {
+  float: left;
+  margin-right: 0;
+  margin-top: 30px;
+}    
+.login-register-area .form .social-icon span {
+  left: 0;
+  position: relative;
+} 
+.login-register-area .form .social-icon .login-with {
+  position: static;
+}    
+.login-register-area .form h6 {
+  margin: 20px 0 0;
+}    
+  
+/*** 
+=============================================
+    Cart Area style
+=============================================
+***/
+.cart-middle .apply-coupon {
+  padding-left: 0;
+}       
+.cart-middle .apply-coupon input[type="text"] {
+  margin: 0 0 20px;
+  position: static;
+  width: 225px;
+}    
+.cart-area .cart-bottom .calculate-shipping {
+  padding-bottom: 60px;
+}    
+.cart-middle .update-cart {
+  float: left !important;
+  margin: 20px 0 0;
+}        
+    
+/*** 
+=============================================
+    Single Shop Area style
+=============================================
+***/     
+.single-shop-content .img-holder {
+  margin-right: 0px;
+}    
+.single-shop-content .content-box {
+  margin-left: 0;
+  margin-top: 35px;
+}   
+.related-product .single-product-item {
+  margin-bottom: 40px;
+}    
+   
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+ 
+    
+    
+    
+    
+    
+    
+}
+
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+    
+ 
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+ 
+    
+    
+    
+ 
+}
+
+
+
+
