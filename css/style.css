@@ -58,16 +58,16 @@
 @import url('bootstrap-select.min.css');
 
 /*** Price filter***/
-@import url(../assets/price-filter/nouislider.css);
-@import url(../assets/price-filter/nouislider.pips.css);
+/* @import url(../assets/price-filter/nouislider.css);
+@import url(../assets/price-filter/nouislider.pips.css); */
 /*** single shop slide ***/
 @import url(flexslider.css);
 /*** Time picker css ***/
-@import url(../assets/timepicker/timePicker.css);
+/* @import url(../assets/timepicker/timePicker.css); */
 
 
 @import url(../fonts/flaticon/flaticon.css);
-@import url(../assets/jquery-ui-1.11.4/jquery-ui.css);
+/* @import url(../assets/jquery-ui-1.11.4/jquery-ui.css); */
 /*** Revolution slider ***/
 /* @import url(../assets/revolution/css/settings.css); */
 /* @import url(../assets/revolution/css/layers.css); */
